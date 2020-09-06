@@ -9,6 +9,7 @@
 """
 
 import json
+import numpy
 
 
 def get_datas(file_in):
