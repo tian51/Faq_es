@@ -3,7 +3,7 @@
 @File    : es_tool.py
 @Time    : 2020/9/5
 @Author  : tyz
-@Email   : 18271913228@qq.com
+@Email   : 1239233794@qq.com
 @Software: PyCharm
 @desc    :
 """
